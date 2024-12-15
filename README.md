@@ -4,6 +4,6 @@
 ## Purpose:
 ### Find top 5 highest scorers
 ### Find what teams attempted the most and least freethrows per game
-### Find the top 5 players who had the most statistical impact on devense (BLks+STLs)
+### Find the top 5 players who had the most statistical impact on defense (BLks+STLs)
 ### Find top 5 players who had the most point production (ASTs+PTSs)
 ### Find the age distribution of all players (2023)
